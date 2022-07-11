@@ -1,7 +1,7 @@
 ## Welcome to Biggylion profile
 Fullstack developer from hell
 
-<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/twitch-pepe-meme-gif/sticker_4.gif?26a74f4f0ef5a787894adc441abd042e" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/twitch-pepe-meme-gif/sticker_4.gif?26a74f4f0ef5a787894adc441abd042e">
   
 ## Familiar with:
 - JavaScript / TypeScript
