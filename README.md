@@ -1,16 +1,31 @@
-### Hi there 👋
+## Welcome to Biggylion profile
+Fullstack developer from hell
 
-<!--
-**thecuriousbig/thecuriousbig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/twitch-pepe-meme-gif/sticker_4.gif?26a74f4f0ef5a787894adc441abd042e" frameBorder="0" class="giphy-embed" allowFullScreen>]()
+  
+## Familiar with:
+- JavaScript / TypeScript
+- Golang
 
-Here are some ideas to get you started:
+## In domains of:
+- Frontend Web
+  - React / Next.js
+- Backend Web
+  - Node: Express.js / Nest.js
+  - Go: Echo
+- Mobile
+  - Cross Platform: React Native
+- Database
+  - SQL: Postgres
+  - NoSQL: MongoDB / Firestore
+  - ORM: Prisma / Mongoose
+- Additional
+  - GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Feature Projects:
+#### Product:
+
+### Github Stats
+[![thecuriousbig's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecuriousbig&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecuriousbig&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
