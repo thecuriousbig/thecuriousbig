@@ -1,25 +1,29 @@
 ## Welcome to Biggylion profile
-Fullstack developer from hell
+Fullstack developer (Backend that can do a little bit frontend ROFL)
 
 ![image info](./pepe.gif)
   
 ## Familiar with:
-- JavaScript / TypeScript
 - Golang
+- JavaScript / TypeScript
 
 ## In domains of:
-- Frontend Web
+- Frontend
   - React / Next.js
-- Backend Web
-  - Node: Express.js / Nest.js
-  - Go: Echo
-- Mobile
-  - Cross Platform: React Native
+- Backend
+  - Go: Echo, Fiber, Gin, GRPC
+  - Node: Express.js
+- Devops
+  - CICD pipeline with Github Actions, Gitlab CI, Jenkins
+  - Kubernetes, ArgoCD
+- Clouds
+  - GCP, AWS (kinda rusty)
 - Database
   - SQL: Postgres
   - NoSQL: MongoDB / Firestore
-  - ORM: Prisma / Mongoose
+  - ORM: Mongoose, Prisma
 - Additional
+  - GRPC
   - GraphQL
 
 ## Feature Projects:
